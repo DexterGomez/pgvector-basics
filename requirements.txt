@@ -1,0 +1,5 @@
+jupyterlab==4.3.*
+psycopg[binary]==3.2.*
+pgvector==0.3.*
+sentence-transformers==5.3.0   # same pin as the workspace demos (transformers v5 OK)
+pandas==2.2.*
